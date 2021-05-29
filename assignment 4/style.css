@@ -1,0 +1,61 @@
+body{
+    background: lightgrey;
+    h
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+#photo {
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    background-image: url("./sea.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: block;
+    z-index: 1;
+}
+
+#one {
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    
+}
+
+#two {
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+
+    
+}
+
+#three {
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    
+}
+
+#four {
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+
+}

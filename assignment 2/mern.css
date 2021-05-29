@@ -1,0 +1,26 @@
+body{
+    font-family: cursive;
+    background-color: lightgrey;
+    border-color: black;
+    display: inline-flex;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    margin-left: 533px
+
+}
+
+
+
+button{
+    font-family: cursive;
+    color: black;
+    background-color: white;
+    border-color:red;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
