@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  color: black;
+}
+
+.form {
+  width: fit-content;
+  background-color: rgb(230, 248, 255);
+  
+}
+
+
+.abc {
+  width: fit-content;
